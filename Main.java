@@ -6,7 +6,7 @@ Charater for Remove: a
 result string:  bcdefbcdebcd
 */
 import java.util.Scanner;
-class Q3{
+class Main{
     public static String removeCharacterFromString(String string,char character) {
         String res="";
         for(int i=0;i<string.length();i++){
